@@ -75,11 +75,11 @@ pyramid = ImageOps.gaussian_pyramid(clean_image, levels=4)
 
 | Category | Technologies |
 | :--- | :--- | 
-| **Deep Learning** | "PyTorch, TensorFlow, Keras, CNNs (ResNet, VGG), Transformers" |
-| **Algorithms** | "Random Forest, K-D Trees, Gradient Descent, Bootstrap Aggregating" |
-| **Data Science** | "NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn" |
-| **Engineering** | "Python, C++, SQL, Git, Docker, CI/CD" |
-| **Soft Skills** | "Technical Leadership (MiTSA), Project Management, Agile" |
+| **Deep Learning** | PyTorch, TensorFlow, Keras, CNNs (ResNet, VGG), Transformers |
+| **Algorithms** | Random Forest, K-D Trees, Gradient Descent, Bootstrap Aggregating |
+| **Data Science** | NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn |
+| **Engineering** | Python, C++, SQL, Git, Docker, CI/CD |
+| **Soft Skills** | Technical Leadership (MiTSA), Project Management, Agile |
 
 ---
 ## 📜 Certifications & Education
