@@ -15,7 +15,7 @@ This repository demonstrates my ability to build AI systems from the ground upâ€
 
 | Project | Domain | Tech Stack | Key Achievement |
 | :--- | :--- | :--- | :--- |
-| **[Blood Cell Classification](./blood-cell-classification-resnet)** | Deep Learning / MedTech | PyTorch, ResNet-18 | **95.4% Accuracy** on microscopic cell classification. |
+| **[Blood Cell Classification](./blood-cell-classification)** | Deep Learning / MedTech | PyTorch, ResNet-18 | **95.4% Accuracy** on microscopic cell classification. |
 | **[Predictive Analytics Lib](./predictive-analytics-lib)** | Algorithm Design | Python, NumPy | Built **Random Forest & K-D Tree** from scratch (No Sklearn). |
 | **[Computer Vision Utils](./image-processing-utils)** | Computer Vision | NumPy, Linear Algebra | Implemented custom **Convolution & Pyramids** without OpenCV. |
 
